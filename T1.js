@@ -1,5 +1,10 @@
-alert("bba")
 
-export const c=()=>{
+alert("bba")
+alert("aaa")
+
+
+
+export const f1=()=>{
+    alert("bb")
 
 }
