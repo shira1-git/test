@@ -1,1 +1,5 @@
-alert("aaa")
+alert("bba")
+
+export const b2=()=>{
+
+}
