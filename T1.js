@@ -1,5 +1,5 @@
 alert("bba")
 
-export const b2=()=>{
+export const c=()=>{
 
 }
